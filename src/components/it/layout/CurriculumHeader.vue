@@ -4,7 +4,7 @@
     <div class="header-intro header-intro-resume theme-bg-primary text-white py-5">
       <div class="container position-relative">
         <h2 class="page-heading mb-3">Curriculum</h2>
-        <a class="btn theme-btn-on-bg download-resume position-absolute font-weight-bold mx-auto" href="#"
+        <a class="btn theme-btn-on-bg download-resume position-absolute font-weight-bold mx-auto" @click="cv2Pdf()"
           ><i class="fas fa-download mr-2"></i>Scarica come PDF</a
         >
       </div>
@@ -15,9 +15,17 @@
 <script>
 import Navbar from '@/components/it/layout/Navbar.vue'
 
+import html2pdf from 'html2pdf.js'
+
 export default {
   name: 'CurriculumHeader',
-  components: { Navbar }
+  components: { Navbar },
+  methods: {
+    cv2Pdf() {
+      let cv = document.getElementById('cv')
+      html2pdf(cv)
+    }
+  }
 }
 </script>
 

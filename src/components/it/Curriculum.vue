@@ -1,6 +1,6 @@
 <template>
   <article class="resume-wrapper text-center position-relative">
-    <div class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
+    <div id="cv" class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
       <PersonalInfo />
 
       <div class="resume-body p-5">
