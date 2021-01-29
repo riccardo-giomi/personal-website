@@ -1,7 +1,6 @@
 import Vue from 'vue'
 
-import BootstrapVue from 'bootstrap-vue'
-import 'bootstrap/dist/css/bootstrap.min.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css'
+import '../assets/theme-instance-b4/scss/theme-1.scss'
+import { BootstrapVue } from 'bootstrap-vue'
 
 Vue.use(BootstrapVue)
