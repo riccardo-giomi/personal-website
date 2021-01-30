@@ -8,30 +8,29 @@
           <div class="title mb-3">Full-stack developer</div>
           <ul class="list-unstyled">
             <li class="mb-2">
-              <a href="#"
-                ><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>contact@riccardogiomi.com</a
+              <a href="#">
+                <EnvelopIconFixed />
+                contact@riccardogiomi.com</a
               >
             </li>
           </ul>
         </div>
-        <!--//primary-info-->
         <div class="secondary-info ml-md-auto mt-2">
           <ul class="resume-social list-unstyled">
             <li class="mb-3">
               <a href="https://www.linkedin.com/in/riccardo-giomi-663303188" target="_blank"
-                ><span class="fa-container text-center mr-2"><i class="fab fa-linkedin-in fa-fw"></i></span
+                ><span class="fa-container text-center mr-2"><LinkedinIconFixed /></span
                 >linkedin.com/in/riccardo-giomi-663303188</a
               >
             </li>
             <li class="mb-3">
               <a href="https://github.com/riccardo-giomi"
-                ><span class="fa-container text-center mr-2"><i class="fab fa-github-alt fa-fw"></i></span
-                >github.com/riccardo-giomi</a
+                ><span class="fa-container text-center mr-2"><GithubIconFixed /></span>github.com/riccardo-giomi</a
               >
             </li>
             <li>
               <router-link to="/">
-                <span class="fa-container text-center mr-2"><i class="fas fa-globe"></i></span>riccardogiomi.com
+                <span class="fa-container text-center mr-2"><GlobeIconFixed /></span>riccardogiomi.com
               </router-link>
             </li>
           </ul>
@@ -40,3 +39,19 @@
     </div>
   </header>
 </template>
+
+<script>
+import EnvelopIconFixed from '@/components/it/curriculum/icons-fixed/EnvelopIconFixed.vue'
+import LinkedinIconFixed from '@/components/it/curriculum/icons-fixed/LinkedinIconFixed.vue'
+import GithubIconFixed from '@/components/it/curriculum/icons-fixed/GithubIconFixed.vue'
+import GlobeIconFixed from '@/components/it/curriculum/icons-fixed/GlobeIconFixed.vue'
+
+export default {
+  components: {
+    EnvelopIconFixed,
+    LinkedinIconFixed,
+    GithubIconFixed,
+    GlobeIconFixed
+  }
+}
+</script>
