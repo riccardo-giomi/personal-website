@@ -1,4 +1,5 @@
-# personal-website [![Netlify Status](https://api.netlify.com/api/v1/badges/86468986-fe3b-4e24-ba8d-2646c0e5e31c/deploy-status)](https://app.netlify.com/sites/riccardogiomi/deploys)
+# personal-website [![Netlify Status](https://api.netlify.com/api/v1/badges/bf20cfc6-54a8-4fc4-a5bd-010e948873c3/deploy-status)](https://app.netlify.com/sites/riccardo-giomi/deploys)
+
 ## Project setup
 ```
 yarn install
