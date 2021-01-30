@@ -23,11 +23,15 @@ export default {
   methods: {
     cv2Pdf() {
       let cv = document.getElementById('cv-for-pdf')
-      html2pdf(cv, {
-        margin: [0, -2, 0, 0],
-        image: { type: 'jpeg', quality: 0.98 },
-        filename: 'riccardo.giomi.pdf'
-      })
+      html2pdf()
+        .set({
+          pagebreak: { avoid: ['section'] },
+          margin: [0, -2, 0, 0],
+          image: { type: 'jpeg', quality: 0.98 },
+          filename: 'riccardo.giomi.pdf'
+        })
+        .from(cv)
+        .save()
     }
   }
 }

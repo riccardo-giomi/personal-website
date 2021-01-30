@@ -1,9 +1,9 @@
 <template>
-  <section class="resume-section experience-section mb-5">
-    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Work Experience</h2>
+  <section class="resume-section experience-section mb-4">
+    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Esperienza</h2>
     <div class="resume-section-content">
       <div class="resume-timeline position-relative">
-        <article class="resume-timeline-item position-relative pb-5">
+        <article class="resume-timeline-item position-relative pb-4">
           <div class="resume-timeline-item-header mb-2">
             <div class="d-flex flex-column flex-md-row">
               <h3 class="resume-position-title font-weight-bold mb-1">Sviluppatore full-stack freelancer</h3>
@@ -21,13 +21,13 @@
             </ul>
           </div>
         </article>
-        <article class="resume-timeline-item position-relative pb-5">
+        <article class="resume-timeline-item position-relative pb-4">
           <div class="resume-timeline-item-header mb-2">
             <div class="d-flex flex-column flex-md-row">
               <h3 class="resume-position-title font-weight-bold mb-1">Sviluppo software come volontario e mentore</h3>
               <div class="resume-company-name ml-auto">AgiveVentures</div>
             </div>
-            <div class="resume-position-time">2020</div>
+            <div class="resume-position-time">2020 - oggi</div>
           </div>
           <div class="resume-timeline-item-desc">
             <p>
@@ -43,7 +43,7 @@
             </ul>
           </div>
         </article>
-        <article class="resume-timeline-item position-relative pb-5">
+        <article class="resume-timeline-item position-relative pb-4">
           <div class="resume-timeline-item-header mb-2">
             <div class="d-flex flex-column flex-md-row">
               <h3 class="resume-position-title font-weight-bold mb-1">Sviluppatore senior, remoto</h3>
@@ -67,7 +67,7 @@
           </div>
         </article>
 
-        <article class="resume-timeline-item position-relative pb-5">
+        <article class="resume-timeline-item position-relative pb-4">
           <div class="resume-timeline-item-header mb-2">
             <div class="d-flex flex-column flex-md-row">
               <h3 class="resume-position-title font-weight-bold mb-1">Sviluppatore, remoto</h3>
@@ -90,7 +90,7 @@
           </div>
         </article>
 
-        <article class="resume-timeline-item position-relative pb-5">
+        <article class="resume-timeline-item position-relative pb-4">
           <div class="resume-timeline-item-header mb-2">
             <div class="d-flex flex-column flex-md-row">
               <h3 class="resume-position-title font-weight-bold mb-1">Sviluppatore full-stack e manutentore</h3>
