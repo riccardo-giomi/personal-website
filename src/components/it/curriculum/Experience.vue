@@ -32,7 +32,7 @@
           <div class="resume-timeline-item-desc">
             <p>
               AgileVentures è una organizzazione non-profit inglese per l’apprendimento e l'auto-miglioramento
-              attraverso il "crowdsourcing". Volontario in qualità di sviluppatore e mentore.
+              attraverso il "crowdsourcing". Partecipo come volontario in qualità di sviluppatore e mentore.
             </p>
             <h4 class="resume-timeline-item-desc-heading font-weight-bold">Tecnologie:</h4>
             <ul class="list-inline">
