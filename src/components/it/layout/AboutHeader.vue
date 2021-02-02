@@ -1,6 +1,6 @@
 <template>
   <header class="header">
-    <Navbar active="home" />
+    <Navbar active="about" />
     <div class="header-intro theme-bg-primary text-white py-5">
       <div class="container">
         <div class="profile-teaser media flex-column flex-md-row">
