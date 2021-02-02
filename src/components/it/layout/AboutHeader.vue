@@ -13,9 +13,10 @@
             <div class="lead">Benvenuti, mi chiamo</div>
             <h2 class="mt-0 display-4 font-weight-bold">Riccardo Giomi</h2>
             <div class="bio mb-3">
-              Sono un programmatore full-stack con esperienza nella realizzazione di backend e frontend per applicazioni
-              web. Per ulteriori informazioni, il mio
-              <router-link to="/curriculum" class="link-on-bg">curriculum</router-link>.
+              Sono un programmatore full-stack specializzato nella realizzazione di backend e frontend per applicazioni
+              web e servizi RESTful. Sono un appassionato di Linux, Vim, NeoVim e recentemente Doom-Emacs. Per ulteriori
+              informazioni, il mio
+              <router-link to="/it/curriculum" class="link-on-bg">curriculum</router-link>.
             </div>
           </div>
         </div>
@@ -28,7 +29,7 @@
 import Navbar from '@/components/it/layout/Navbar.vue'
 
 export default {
-  name: 'HomeHeader',
+  name: 'AboutHeader',
   components: { Navbar }
 }
 </script>

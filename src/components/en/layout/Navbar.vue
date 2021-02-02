@@ -22,9 +22,9 @@
 
     <b-collapse id="navigation" is-nav>
       <b-navbar-nav class="text-uppercase ml-auto">
-        <b-nav-item to="/it/about" :active="isActive('about')">Chi sono</b-nav-item>
-        <b-nav-item to="/it/curriculum" :active="isActive('cv')">Curriculum</b-nav-item>
-        <b-nav-item href="/en/">English website</b-nav-item>
+        <b-nav-item to="/en/about" :active="isActive('about')">About</b-nav-item>
+        <b-nav-item to="/en/curriculum" :active="isActive('cv')">Resume</b-nav-item>
+        <b-nav-item href="/it/">Sito in Italiano</b-nav-item>
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>

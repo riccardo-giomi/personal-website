@@ -5,10 +5,11 @@
         Competenze
       </h3>
       <div class="section-intro mx-auto text-center mb-5 text-secondary">
-        Venti anni di esperienza nel settore IT, sviluppando applicazioni web e backend per API REST. Appassionato di
-        Linux, Vim, NeoVim e recentemente Doom-Emacs. Ecco una rapida carrellata dei linguaggi e degli strumenti che ho
-        usato più recentemente. Volete saperne di più sulla mia esperienza?
-        <router-link to="/curriculum">Date un'occhiata al mio curriculum</router-link>.
+        Ho più di 20 anni di esperienza nel settore IT, sviluppando applicazioni e servizi per la rete. Negli ultimi
+        dieci anni ho lavorato primariamente come collaboratore o consulente in gruppi di lavoro remoto. Ecco una rapida
+        carrellata dei linguaggi e degli strumenti che ho usato più recentemente. Volete saperne di più sulla mia
+        esperienza?
+        <router-link to="/it/curriculum">Date un'occhiata al mio curriculum</router-link>.
       </div>
 
       <div class="skills-blocks mx-auto pt-5">

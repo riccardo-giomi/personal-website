@@ -5,7 +5,7 @@
       <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
         <div class="primary-info">
           <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Riccardo Giomi</h1>
-          <div class="title mb-3">Full-stack developer</div>
+          <div class="title mb-3">Freelance full stack developer</div>
           <ul class="list-unstyled">
             <li class="mb-2">
               <a href="#">
@@ -29,7 +29,7 @@
               >
             </li>
             <li>
-              <router-link to="/it/">
+              <router-link to="/en/">
                 <span class="fa-container text-center mr-2"><GlobeIconFixed /></span>riccardogiomi.com
               </router-link>
             </li>

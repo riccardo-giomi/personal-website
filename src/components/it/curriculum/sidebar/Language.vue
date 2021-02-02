@@ -9,7 +9,7 @@
         </li>
         <li class="mb-2 align-middle">
           <span class="resume-lang-name font-weight-bold">Inglese</span>
-          <small class="text-muted font-weight-normal"> (Professional)</small>
+          <small class="text-muted font-weight-normal"> (Professionale)</small>
         </li>
         <li>
           <span class="resume-lang-name font-weight-bold">Spagnolo</span>

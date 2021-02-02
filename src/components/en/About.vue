@@ -8,11 +8,11 @@
 </template>
 
 <script>
-import Skills from './home/Skills.vue'
-import Clients from './home/Clients.vue'
+import Skills from './about/Skills.vue'
+import Clients from './about/Clients.vue'
 
 export default {
-  name: 'Home',
+  name: 'About',
   components: {
     Skills,
     Clients

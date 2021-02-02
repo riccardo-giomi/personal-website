@@ -1,22 +1,25 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import HomePage from '../views/it/HomePage.vue'
-import CurriculumPage from '../views/it/CurriculumPage.vue'
+import routesIT from './it.js'
+import routesEN from './en.js'
+import HomePage from '../views/en/AboutPage.vue'
 
 Vue.use(VueRouter)
 
-const routes = [
+let routes = [
   {
     path: '/',
     name: 'HomePage',
     component: HomePage
   },
   {
-    path: '/curriculum',
-    name: 'CurriculumPage',
-    component: CurriculumPage
+    path: '/*',
+    name: 'HomePage',
+    component: HomePage
   }
 ]
+
+routes = routesIT.concat(routesEN, routes)
 
 const router = new VueRouter({
   mode: 'history',
