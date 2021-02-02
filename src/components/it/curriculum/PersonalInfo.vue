@@ -2,7 +2,7 @@
   <header class="resume-header pt-4 pt-md-0">
     <div class="media flex-column flex-md-row">
       <img class="mr-3 img-fluid picture mx-auto" src="@/assets/images/cv/photo.jpg" alt="" />
-      <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
+      <div class="media-body p-3 d-flex flex-column flex-md-row mx-auto mx-lg-0">
         <div class="primary-info">
           <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">Riccardo Giomi</h1>
           <div class="title mb-3">Full-stack developer</div>
