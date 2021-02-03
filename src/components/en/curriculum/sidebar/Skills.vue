@@ -56,7 +56,7 @@
       </div>
 
       <div class="resume-skill-item">
-        <h4 class="resume-skills-cat font-weight-bold">Altri</h4>
+        <h4 class="resume-skills-cat font-weight-bold">Others</h4>
         <ul class="list-inline">
           <li class="list-inline-item"><span class="badge badge-light">DevOps</span></li>
           <li class="list-inline-item"><span class="badge badge-light">Git</span></li>
