@@ -12,6 +12,9 @@ export default {
   name: 'App',
   components: {
     Footer
+  },
+  metaInfo: {
+    titleTemplate: 'Riccardo Giomi | %s'
   }
 }
 </script>

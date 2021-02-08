@@ -14,6 +14,16 @@ export default {
   components: {
     AboutHeader,
     About
+  },
+  metaInfo: {
+    title: 'Chi sono.',
+    meta: [
+      {
+        name: 'description',
+        content:
+          'Portfolio professionale di Riccardo Giomi, ingegnere informatico e sviluppatore web. Competenze e collaborazioni.'
+      }
+    ]
   }
 }
 </script>

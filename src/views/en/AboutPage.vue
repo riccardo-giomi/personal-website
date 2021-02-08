@@ -14,6 +14,15 @@ export default {
   components: {
     AboutHeader,
     About
+  },
+  metaInfo: {
+    title: 'About me.',
+    meta: [
+      {
+        name: 'description',
+        content: 'Professional portfolio of Riccardo giomi, software engineer and web developer. Skills and clients.'
+      }
+    ]
   }
 }
 </script>

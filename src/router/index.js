@@ -4,7 +4,10 @@ import routesIT from './it.js'
 import routesEN from './en.js'
 import HomePage from '../views/en/AboutPage.vue'
 
+import Meta from 'vue-meta'
+
 Vue.use(VueRouter)
+Vue.use(Meta)
 
 let routes = [
   {

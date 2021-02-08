@@ -11,6 +11,15 @@ import Curriculum from '@/components/en/Curriculum.vue'
 
 export default {
   name: 'CurriculumPage',
-  components: { CurriculumHeader, Curriculum }
+  components: { CurriculumHeader, Curriculum },
+  metaInfo: {
+    title: 'My Resume',
+    meta: [
+      {
+        name: 'description',
+        content: 'Professional portfolio of Riccardo giomi, software engineer and web developer. This is my resume.'
+      }
+    ]
+  }
 }
 </script>
