@@ -2,18 +2,21 @@
   <div>
     <AboutHeader />
     <About />
+    <Footer />
   </div>
 </template>
 
 <script>
 import AboutHeader from '@/components/it/layout/AboutHeader.vue'
 import About from '@/components/it/About.vue'
+import Footer from '@/components/it/layout/Footer.vue'
 
 export default {
   name: 'AboutPage',
   components: {
     AboutHeader,
-    About
+    About,
+    Footer
   },
   metaInfo: {
     title: 'Chi sono.',

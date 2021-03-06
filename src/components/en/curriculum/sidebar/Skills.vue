@@ -32,7 +32,7 @@
             <div class="resume-skill-name"><strong>Ruby/Rails</strong></div>
           </li>
           <li class="mb-2">
-            <div class="resume-skill-name"><strong>PHP</strong></div>
+            <div class="resume-skill-name"><strong>PHP/Symfony</strong></div>
           </li>
         </ul>
       </div>

@@ -42,7 +42,7 @@
               </div>
               <ul class="skills-list list-unstyled text-secondary">
                 <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Ruby/Rails</li>
-                <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>PHP</li>
+                <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>PHP/Symfony</li>
                 <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>Node.js/Express</li>
                 <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>MySQL</li>
                 <li class="mb-2"><i class="fas fa-check mr-2 text-primary"></i>MongoDB</li>

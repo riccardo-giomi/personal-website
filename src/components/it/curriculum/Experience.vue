@@ -21,7 +21,6 @@
               <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Node.js</span></li>
               <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Express</span></li>
               <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Vue</span></li>
-              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">MongoDB</span></li>
               <li class="list-inline-item"><span class="badge badge-secondary badge-pill">PHP</span></li>
               <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Symfony</span></li>
             </ul>

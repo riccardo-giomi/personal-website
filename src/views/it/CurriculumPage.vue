@@ -2,16 +2,18 @@
   <div>
     <CurriculumHeader />
     <Curriculum />
+    <CurriculumFooter />
   </div>
 </template>
 
 <script>
 import CurriculumHeader from '@/components/it/layout/CurriculumHeader.vue'
 import Curriculum from '@/components/it/Curriculum.vue'
+import CurriculumFooter from '@/components/it/layout/CurriculumFooter.vue'
 
 export default {
   name: 'CurriculumPage',
-  components: { CurriculumHeader, Curriculum },
+  components: { CurriculumHeader, Curriculum, CurriculumFooter },
   metaInfo: {
     title: 'Il mio Curriculum.',
     meta: [
