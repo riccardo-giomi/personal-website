@@ -6,9 +6,33 @@
         <article class="resume-timeline-item position-relative pb-4">
           <div class="resume-timeline-item-header mb-2">
             <div class="d-flex flex-column flex-md-row">
+              <h3 class="resume-position-title font-weight-bold mb-1">Sviluppatore</h3>
+              <div class="resume-company-name ml-auto">Make Money Organization</div>
+            </div>
+            <div class="resume-position-time">Marzo 2021 - oggi</div>
+          </div>
+          <div class="resume-timeline-item-desc">
+            <p>
+              Attualmente parte della squadra di realizzazione del sistema di gestione interno di Make Money
+              Organization, società di formazione e coaching per il settore immobiliare.
+            </p>
+            <h4 class="resume-timeline-item-desc-heading font-weight-bold">Tecnologie:</h4>
+            <ul class="list-inline">
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Node.js</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Express</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Vue</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">MongoDB</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">PHP</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Symfony</span></li>
+            </ul>
+          </div>
+        </article>
+        <article class="resume-timeline-item position-relative pb-4">
+          <div class="resume-timeline-item-header mb-2">
+            <div class="d-flex flex-column flex-md-row">
               <h3 class="resume-position-title font-weight-bold mb-1">Sviluppatore full-stack freelancer</h3>
             </div>
-            <div class="resume-position-time">2020 - oggi</div>
+            <div class="resume-position-time">2020 - Marzo 2021</div>
           </div>
           <div class="resume-timeline-item-desc">
             <p></p>
@@ -27,7 +51,7 @@
               <h3 class="resume-position-title font-weight-bold mb-1">Sviluppo software come volontario e mentore</h3>
               <div class="resume-company-name ml-auto">AgiveVentures</div>
             </div>
-            <div class="resume-position-time">2020 - oggi</div>
+            <div class="resume-position-time">2020</div>
           </div>
           <div class="resume-timeline-item-desc">
             <p>

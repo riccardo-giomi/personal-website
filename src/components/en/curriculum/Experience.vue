@@ -6,9 +6,33 @@
         <article class="resume-timeline-item position-relative pb-4">
           <div class="resume-timeline-item-header mb-2">
             <div class="d-flex flex-column flex-md-row">
+              <h3 class="resume-position-title font-weight-bold mb-1">Senior developer</h3>
+              <div class="resume-company-name ml-auto">Make Money Organization</div>
+            </div>
+            <div class="resume-position-time">March 2021 - Today</div>
+          </div>
+          <div class="resume-timeline-item-desc">
+            <p>
+              Member of the team developing the internal management application for Make Money Organization, a
+              Professional Training & Coaching company for Real Estate agents.
+            </p>
+            <h4 class="resume-timeline-item-desc-heading font-weight-bold">Tecnologie:</h4>
+            <ul class="list-inline">
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Node.js</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Express</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Vue</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">MongoDB</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">PHP</span></li>
+              <li class="list-inline-item"><span class="badge badge-secondary badge-pill">Symfony</span></li>
+            </ul>
+          </div>
+        </article>
+        <article class="resume-timeline-item position-relative pb-4">
+          <div class="resume-timeline-item-header mb-2">
+            <div class="d-flex flex-column flex-md-row">
               <h3 class="resume-position-title font-weight-bold mb-1">Freelance full-stack developer</h3>
             </div>
-            <div class="resume-position-time">2020 - today</div>
+            <div class="resume-position-time">2020 - March 2021</div>
           </div>
           <div class="resume-timeline-item-desc">
             <p></p>
@@ -27,7 +51,7 @@
               <h3 class="resume-position-title font-weight-bold mb-1">Volunteer developer and mentor</h3>
               <div class="resume-company-name ml-auto">AgiveVentures</div>
             </div>
-            <div class="resume-position-time">2020 - today</div>
+            <div class="resume-position-time">2020</div>
           </div>
           <div class="resume-timeline-item-desc">
             <p>
@@ -73,7 +97,7 @@
               <h3 class="resume-position-title font-weight-bold mb-1">Developer, remote</h3>
               <div class="resume-company-name ml-auto">Liberologico/Deutsche Telekom</div>
             </div>
-            <div class="resume-position-time">2016 - dicembre 2018</div>
+            <div class="resume-position-time">2016 - december 2018</div>
           </div>
           <div class="resume-timeline-item-desc">
             <p>
